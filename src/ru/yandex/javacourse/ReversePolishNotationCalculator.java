@@ -44,4 +44,8 @@ class ReversePolishNotationCalculator {
                 || part.equals("-")
                 || part.equals("*");
     }
+
+    private String hi(){
+        return "Hello";
+    }
 }
